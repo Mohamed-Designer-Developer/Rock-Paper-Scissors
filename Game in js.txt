@@ -1,0 +1,8 @@
+Game Rules 
+Rock, paper, scissors is a classic game of chance for two people. You and a partner shake your fists 3 times and then make gestures at random to show a rock, paper or scissors. Rock beats scissors, scissors beat paper and paper beats rock (it wraps the rock!).
+
+If both players choose the same shape, the game is tied and is usually replayed to break the tie.
+
+Rock, Paper and Scissor Game 
+https://www.geeksforgeeks.org/rock-paper-and-scissor-game-using-javascript/
+
